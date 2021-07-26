@@ -1,0 +1,2 @@
+# Mobile-App-Usage-Analysis-ETL
+We receive app data usage (every month) from several mobile users. The data is limited to a bunch of apps from well-known publishers. The goal of the exercise is to do exploratory analysis and perform ETL operations to generates multiple target files like statistical data along with rankings of individual Apps based on total users and average minutes per user and rankings of the publishers as per total devices across applications.
