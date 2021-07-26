@@ -1,0 +1,22 @@
+,app_name,Total_minutes,Total_devices,Avg_time_spent_per_device,Rank(Duration based),Rank(user based)
+2,Facebook (Mobile App),513981.0018000001,61,8425.918062295083,1.0,7.0
+3,Facebook Messenger (Mobile App),417436.92900000006,79,5284.011759493672,2.0,6.0
+20,YouTube (Mobile App),245730.5802,113,2174.606904424779,3.0,3.0
+5,Google Search (Mobile App),140714.7714,128,1099.3341515625,6.0,2.0
+7,Instagram (Mobile App),108374.112,89,1217.6866516853931,5.0,5.0
+15,Snapchat (Mobile App),72413.8002,47,1540.7191531914893,4.0,9.5
+10,Netflix (Mobile App),37450.6146,47,796.8215872340426,8.0,9.5
+4,Google Play (Mobile App),27224.694000000007,163,167.02266257668717,15.0,1.0
+12,Pinterest (Mobile App),22312.206,49,455.3511428571428,10.0,8.0
+0,Amazon Mobile (Mobile App),16088.5872,93,172.99556129032257,14.0,4.0
+16,Tumblr (Mobile App),14298.4548,16,893.653425,7.0,15.5
+18,Yahoo Mail (Mobile App),14069.3112,29,485.1486620689655,9.0,12.0
+8,Kindle (Mobile App),5396.517,16,337.2823125,11.0,15.5
+11,Outlook (Mobile App),3561.0246,15,237.40164000000001,13.0,17.0
+17,Walmart (Mobile App),3227.6286,44,73.35519545454545,18.0,11.0
+6,GroupMe (Mobile App),1782.6858000000002,7,254.66940000000002,12.0,18.0
+1,Amazon Music with Prime Music (Mobile App),1657.53,19,87.23842105263158,16.0,13.5
+9,Microsoft Word (Mobile App),873.0665999999999,19,45.95087368421052,19.0,13.5
+19,Yahoo Newsroom (Mobile App),482.6304,6,80.4384,17.0,19.0
+13,Sam's Club (Mobile App),93.0258,3,31.0086,20.0,20.0
+14,Sam's Club Scan & Go (Mobile App),0.0378,1,0.0378,21.0,21.0
